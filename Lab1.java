@@ -24,7 +24,7 @@ public class Lab1 {
 	            code+=line;
 	            line=bufferedReader.readLine();
         }
-	}
+	  }
 	String keywords="abstract、assert、boolean、break、byte、case、"
             + "catch、char、class、continue、default、do、double、else、"
             + "enum、extends、final、finally、float、for、if、implements、"
